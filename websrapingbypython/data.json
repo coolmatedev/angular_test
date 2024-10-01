@@ -1,0 +1,18 @@
+{
+    "nodes": [
+        {"id": "A", "label": "Node A"},
+        {"id": "B", "label": "Node B"},
+        {"id": "C", "label": "Node C"},
+        {"id": "D", "label": "Node D"},
+        {"id": "E", "label": "Node E"},
+        {"id": "F", "label": "Node F"}
+    ],
+    "edges": [
+        {"source": "A", "target": "B"},
+        {"source": "A", "target": "C"},
+        {"source": "B", "target": "C"},
+        {"source": "D", "target": "A"},
+        {"source": "E", "target": "B"},
+        {"source": "F", "target": "A"}
+    ]
+}
